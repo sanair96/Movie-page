@@ -1,4 +1,4 @@
-# Movie-page
+# Movie-Trailer-Website
 Contains code to generate an awesome movies page.
 
 ##Python Should be installed on your PC for this code to work
