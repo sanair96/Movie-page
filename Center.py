@@ -21,5 +21,6 @@ interstellar = media.Movie("Interstellar","A Science fiction Time travelling, Mi
 
 movies = [kaththi,the_dark_knight,inception,interstellar]
 
+#Following code creates the HTML Page.
 
 fresh_tomatoes.open_movies_page(movies)
