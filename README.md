@@ -6,6 +6,6 @@ Contains code to generate an awesome movies page.
 
 ###How to use the above repository
 1. Clone the repository onto your PC
-2. __Execute the media.py file__
+2. __Execute the Center.py file__
 3. Your default Browser will Open and the page will be displayed.
 
